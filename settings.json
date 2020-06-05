@@ -1,0 +1,7 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.colorTheme": "Solarized Dark",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true
+}
