@@ -2,6 +2,17 @@
     "workbench.iconTheme": "vscode-icons",
     "vsicons.dontShowNewVersionMessage": true,
     "workbench.colorTheme": "Solarized Dark",
-    "python.formatting.provider": "black",
-    "editor.formatOnSave": true
+    "python.formatting.provider": "autopep8",
+    "editor.formatOnSave": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "window.zoomLevel": 0,
+    "editor.wordWrapColumn": 79,
+    "editor.renderControlCharacters": false,
+    "editor.rulers": [
+        79
+    ],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#ff4081"
+    }
 }
